@@ -2,9 +2,9 @@ Thermostat
 ==========
 Week 5 JavaScript Project
 -------------------------
-The heating at Makers Academy is broken and in rebellion we have programmed a thermostat.
+The objective of this project was to learn the principles of test-driving a Javascript project, with a responsive HTML & CSS design, by building a simple thermostat interface.
 
-Screen shots
+Screenshots
 -----
 
 <div align="center">
@@ -19,17 +19,16 @@ Screen shots
 
 Heroku (live)
 -----
-[Thermostat simple]: https://thermostat-js.herokuapp.com
-[Thermostat simple]
-[Thermostat design]: https://thermostat-js.herokuapp.com/2
-[Thermostat design]
+[Thermostat simple](https://thermostat-js.herokuapp.com) -  a non-responsive, basic styled design.
+
+[Thermostat design](https://thermostat-js.herokuapp.com/2) - a fully responsive, mobile friendly design.
 
 Objectives of exercise
 ----
 - Getting warm!
-- Learning JavaScript, JQuery and Jasmine
-* Test-Driven-Development
-* Pair Programming
+- Learning JavaScript and the JQuery framework
+- Test driving a JS project with Jasmine
+- Incorporate responsive design elements.
 
 Technologies used
 ----
@@ -47,8 +46,8 @@ Technologies used
 Requirements
 ----
 - [x] Thermostat starts at 20 degrees
-- [x] You can increase the temp with the up button
-- [x] You can decrease the temp with the down button
+- [x] You can increase the temperature with the up button
+- [x] You can decrease the temperature with the down button
 - [x] The minimum temperature is 10 degrees
 - [x] If power saving mode is on, the maximum temperature is 25 degrees
 - [x] If power saving mode is off, the maximum temperature is 32 degrees
